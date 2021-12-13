@@ -1,11 +1,55 @@
-# AD-SBA-HTML-CSS-JavaScript
-In this Skill-based Assessment, you will be creating a small website and you get to pick what is the website about. 
-The main purpose of this SBA is to test your skills in implementing a clean HTML structure that follows the methodologies of visual design, and styling your site so that it is user-friendly.
+# SALANGO KITCHEN PROJECT
 
-Your work will be graded based on the below technical requirements. Also, creativity always works in your favor.
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
+### General Info
+***
+This website is implemented using HTML and other technologies and methodologies of visual design learned at Java Developer course by PerScholas.
+Some effort to make it styling looking good and user-friendly have been made.
 
-Since this is your first time creating a 3 page website, keep it simple. Keeping it simple is very important. 
-It ensures that you can complete this project within the given time and also gives you a better idea of what can you get done in the given time if you were to do it again with more requirements.
+We believe in **WYSIWYG (What you see is what you get)** so this project uses many visual resources to display visitors of the website what SALANGO Kitchen has to offer.
+
+### Screenshot
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+
+## Technologies
+***
+A list of technologies used within the project:
+* HTML
+* JavaScritpt
+* CSS
+
+## Installation
+***
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+Side information: To use the application in a special environment use ```lorem ipsum``` to start
+## Collaboration
+***
+Revelvant feedback is welcome to improve this project.
+## FAQs
+***
+A list of frequently asked questions
+1. **What is this website about?**
+ _It's a restaurant promotion and management site_. 
+2. __Why the name **SALANGO**?__ 
+To answer this question we use an unordered list:
+* First point
+* Second Point
+* Third point
+3. **Third question in bold**
+Answer of the third question with *italic words*.
+4. **Fourth question in bold**
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
 
 Once you got your idea, think in the user’s perspective when creating the website.  
 You like your users to have a good experience when interacting with your site. 
